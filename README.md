@@ -1,0 +1,1 @@
+Although there is an existing library that allows easy barcode generating, this project does this in a much complicated manner because of it being both a coding excercise and a part of a university course.
